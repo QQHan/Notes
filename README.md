@@ -17,6 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+[android Q Camera2 学习记录](https://github.com/QQHan/test/edit/master/README.md) 
 
 1. [android Q Camera2 学习记录](https://github.com/QQHan/test/edit/master/README.md) 
 2. [Modem 编译流程](https://github.com/QQHan/test/edit/master/README.md)
