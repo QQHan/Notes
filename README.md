@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/QQHan/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+[android Q Camera2 学习记录](https://www.baidu.com/)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-[android Q Camera2 学习记录](https://github.com/QQHan/test/edit/master/README.md) 
+[android Q Camera2 学习记录](https://www.baidu.com/) 
 
 1. [android Q Camera2 学习记录](https://github.com/QQHan/test/edit/master/README.md) 
 2. [Modem 编译流程](https://github.com/QQHan/test/edit/master/README.md)
