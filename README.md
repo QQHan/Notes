@@ -1,16 +1,12 @@
-
 ### 文章列表
 
 1.[android Q Camera2 学习记录](https://www.baidu.com/)
 
-2.[Modem 编译学习](https://github.com/QQHan/test/edit/master/README.md)
+2.[Modem 编译学习](https://github.com/QQHan/Notes/edit/master/README.md)
 
 3.[Android Q 存储位置选择 ](./doc/page_1.md)
 
 4.[adb 常用命令汇总](./doc/page_2.md)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
